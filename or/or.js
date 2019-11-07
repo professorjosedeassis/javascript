@@ -1,22 +1,18 @@
 /**
- * Estudo do operador lógico AND
+ * Estudo do operador lógico OR
  * @author José de Assis
  */
 
 let receive
 let sw1 = false
 let sw2 = false
-let broken = false //variável de apoio para quebrar a lâmpada
-//false -> lâmpada inteira
-//true -> lâmpada quebrada
+let broken = false
 
 function sw(receive) {
     // a estrutura abaixo verifica o status das chaves
     // se o objeto sw1 for clicado e a condição inicial da chave for
     // desligada (false) ligar a chave (trocar imagem e mudar status
     // da variável sw1 para true)
-
-    //SW
     if (receive == 1 && sw1 == false) {
         document.getElementById('sw1').src = 'swon.png'
         sw1 = true
@@ -37,12 +33,13 @@ function sw(receive) {
         broken = true
     }
 
-    //AND
+    //OR
     if (broken == false) {
-        if (sw1 == true && sw2 == true) {
+        if (sw1 == true || sw2 == true) {
             document.getElementById('lamp').src = 'on.jpg'
         } else {
             document.getElementById('lamp').src = 'off.jpg'
         }
     }
+
 }

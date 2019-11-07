@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif;
+}
+
+img {
+    cursor: pointer;
+}
+
+#sw1 {
+    float: left;
+}
