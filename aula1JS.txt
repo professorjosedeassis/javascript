@@ -1,0 +1,78 @@
+seg qua
+
+javascript / JS
+
+- sintaxe
+- lógica (variáveis, estruturas de controle)
+- Array
+- Funções
+
+- JQUERY
+______________________________________________
+Ambiente de desenvolvimento
+
+- Editor de código
+  VSCode
+- Navegador (Google Edge IE Firefox Safari Opera)
+- GITHUB
+
+_______________________________________________
+JS
+
+"   "
+'   '
+
+"   ' (errado)
+'   " (errado)
+
+Para ativar o console do desenvolvedor <F12>
+console.log('texto')
+<ctrl L> limpar o console
+
+/**
+ Documentação
+*/
+
+Funções
+Blocos de código reutilizáveis
+
+___________________________________________
+Clean code (boas práticas na programação)
+
+Nomes de variáveis, objetos, classes e funções
+
+*** Não usar espaço nem caracteres especiais
+*** Escolher nomes que tenham relação com o projeto
+*** Quando o nome tiver mais de uma palavra, usar a 
+    famosa técnica do camelo (camel case)
+
+nomeCliente ao invés de nome_cliente
+
+_______________________________________________
+Variáveis:
+
+No JS as variáveis não são tipadas (não é necessário
+especificar o tipo)
+
+Tipos de variáveis:
+
+String (cadeia de caracteres)
+Numérica (números inteiros e não inteiros)
+Booleano (verdadeiro / falso)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

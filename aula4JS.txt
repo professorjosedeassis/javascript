@@ -1,0 +1,38 @@
+Dica Igor:
+<ctrl><;> //comenta a linha
+
+________________________________________________
+REVISÃO:
+Estruturas de controle condicional
+
+if (condição) {
+  //verdadeiro
+}
+
+/**** simplificando o if ****/
+if (condição) //verdadeiro
+
+________________________________________________
+if (condição) {
+  //verdadeiro
+} else {
+  //falso
+}
+
+/**** simplificando o if else ****/
+Condição ? verdadeiro : falso
+//operador ternário
+
+________________________________________________
+Atividades:
+
+1) APP Etanol x Gasolina
+resolução:
+https://youtu.be/20P-MvGaZuQ
+
+2) Criar um sistema de status para o APP Cálculo do IMC
+   que use as imagens disponibilizadas.
+
+
+
+
