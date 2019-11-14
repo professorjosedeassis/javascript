@@ -1,0 +1,68 @@
+Resolução do jokenpô:
+https://youtu.be/Oj6eAZhzsxY
+
+Dica para validação de formulários:
+
+if (nenhum radio buttom selecionado){
+  alert('Selecione uma opção')
+} else {
+  //código do jogo
+}
+
+_______________________________
+Atividade: regra de 3
+Desenvolver um APP que faça o cálculo da porcentagem, 
+conforme modelo abaixo:
+
+X% de Y = resultado
+
+EX:
+20% de 300 = 60
+
+300 ----- 100%
+valor ---  20%
+
+valor x 100 = 300 x 20
+
+         300 x 20       6000
+valor = __________ =  ________
+            100          100
+
+--------------------------------
+   
+          Y x X
+valor =   _____
+           100
+
+valor = (X * Y)/100
+______________________________________________
+
+Estruturas de repetições (Laços)
+
+for (let i = 1; i < 10; i++) {
+
+}
+
+while (condição) {
+  //verdadeiro
+}
+
+do {
+  //verdadeiro
+} while(condição)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
