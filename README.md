@@ -1,4 +1,4 @@
-#JS
+# JS
 ## Fundamentos da Linguagem JavaScript
 Aprenda JavaScript de forma prática e divertida desenvolvendo aplicativos, jogos e muito mais. Este curso também ensina lógica de programação e é ponto de partida à todos que desejam ser desenvolvedores WEB.
 
