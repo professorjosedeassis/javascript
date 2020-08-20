@@ -1,0 +1,11 @@
+
+Exercícios em Javascripts do básico ao Avançado
+https://github.com/gabrieldarezzo/helpjs-ravi
+
+Challengers - Daciuk
+https://github.com/da2k/curso-javascript-ninja
+
+
++++Vagas de Front-end +++
+
+https://github.com/frontendbr/vagas

@@ -1,0 +1,53 @@
+Estrutura switch case (condicional)
+
+Trabalha diretamente com a variável (opções (casos))
+As variáveis só podem ter 1 caractere
+ex: números inteiros
+
+switch (variavel){
+case 1:
+  //código
+  break
+
+case 2:
+  //código
+  break
+
+default:
+  //código
+  break
+}
+
+Obs1: O default equivale ao else, escrevendo o código caso nenhum
+      valor seja encontrado
+Obs2: O default não é obrigatório
+
+_____________________________________________
+Math.floor(número) //transforma para inteiro
+Math.random() * 10 //gerar números aleatórios
+*** Obs: O gerador de números aleatórios inicia em 0
+
+* 6
+
+0 1 2 3 4 5
+_____________________________________________________
+Atividades:
+1) Finalizar o jogo JoKenPô
+
+2) Desenvolver um APP para orientar o eleitor
+idade:
+
+menor do que 16 anos 'Proibido votar'
+16, 17 ou acima de 70 'voto facultativo'
+entre 18 e 70 'voto obrigatório'
+
+
+ 
+
+
+
+
+
+
+
+

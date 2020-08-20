@@ -1,0 +1,77 @@
+Variáveis:
+
+String — Cadeia de caracteres.
+Number — São os números, (inteiros (int) e não inteiros (float).
+Boolean — (true ou false)
+
+array
+function
+
+_____________________________________________________________
+Declaração de variáveis no JS
+var *** obsoleto (permite criar variáveis com o mesmo nome) 
+let
+const
+_________________________________________________________________
+trabalhando com o tipo numérico:
+
+Comando Number (propriedades): 
+Number.isInteger(variável) -> verifica se a variável ou constante
+é um número inteiro.
+
+.toFixed(2) -> arredondamento de casas decimais
+
+Number também pode ser usado para converter uma String em número
+
+*** O JS não gera erro na divisão por 0
+
+Funções matemáticas
+Math.pow(2,3) (exponenciação)
+    3
+   2
+Math.sqrt(9) (raiz quadrada)
+Math.PI
+_________________________________________________
+NaN (Not a number) -> operações numéricas inválidas
+
+
+
+_________________________________________________
+Atividade 1:
+Desenvolvimento de um APP para cálculo da média
+de 2 notas:
+
+         nota1 + nota2
+media = _______________
+
+               2
+
+Variáveis: nota1, nota2 e media
+*** Numéricas (não inteiras)
+
+Entrada: nota1 e nota2
+Processamento: media = (nota1 + nota2) / 2
+Saída: media
+
+______________________________________________________
+Dicas:
+
+VSCode
+<alt><shift><f> -> identação do código
+
+html (validação do código)
+https://validator.w3.org/
+
+______________________________________________________
+Atividade 2:
+Desenvolvimento de um APP para cálculo do IMC:
+IMC
+3 variáveis (peso, altura, imc) Numéricas
+Entrada:
+peso, altura
+Processamento:
+imc = peso / (altura * altura)
+ou
+imc = peso / (Math.pow(altura, 2))
+Saída:
+imc
