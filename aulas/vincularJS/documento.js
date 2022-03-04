@@ -1,6 +1,6 @@
 /**
- * Exemplo de vinculação de um documento JS no html
- * @author José de Assis
- */
+* JS - Aula3: Vinculando um documento JS
+* @author Professor José de Assis
+*/
 
- document.write('<h2>' + 'Hello World' + '</h2>')
+document.write("<h2>" + "Professor José de Assis" + "</h2>");

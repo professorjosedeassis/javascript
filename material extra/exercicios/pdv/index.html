@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PDV</title>
+</head>
+<body>
+    <h1>PDV</h1>
+        <form name="frmPdv">
+            <input type="text" name="txtTotal" placeholder="Total">
+            <input type="text" name="txtPorcentagem" placeholder=" % Desconto" size="10">
+            <p><input type="button" value="Calcular" onclick="calcularDesconto()"></p>
+            <p>Desconto: <input type="text" name="txtDesconto" disabled></p>
+            <p>Total com desconto: <input type="text" name="txtTotalDesconto" disabled></p>
+            <hr>
+            <input type="text" name="txtValorPago" placeholder="Valor pago">
+            <p><input type="button" value="Calcular Troco" onclick="calcularTroco()"></p>
+            <input type="text" name="txtTroco" disabled>
+        </form>
+    <script src="pdv.js"></script>
+</body>
+</html>

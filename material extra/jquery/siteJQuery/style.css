@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+header{
+    max-width: 1112px;
+    margin: 0 auto;
+    height: 128px;
+}
+
+.Logo{
+    float: left;
+    height: 96px;
+    padding: 15px;
+}
+
+.Logo img{
+    height: 100%;
+}
+
+.Hamburguer{
+    background-color: #888888;
+    text-decoration: none;
+    font-size: 2em;
+    padding: 0px 8px 0px 8px;
+    color: #fff;
+    border-radius: 5px;
+    display: none;
+}
+
+.Menu{
+    float: right;
+    padding-top: 52px;
+}
+
+.Menu ul{
+    list-style: none;
+}
+
+.Menu ul li{
+    float: left;
+}
+
+.Menu ul li a{
+    text-decoration: none;
+    padding: 15px;
+    color: #000;
+}
+
+.Menu ul li a:hover{
+    color: #ff0000;
+    transition: all 0.5s; /*efeito de transição*/
+
+}
+
+.Layout{
+    background-image: url('imagens/background.jpg');
+    height: 320px;
+    background-size: cover; /*mantem o tamanho máximo sem repetição */
+    background-position: center;
+    padding-top: 200px;
+    background-attachment: fixed;
+}
+
+.Layout p{
+    text-align: center;
+    color: #fff;
+    font-size: 3em; /* 12pt ou 16px */
+    font-weight: bold;
+}
+
+.Modulo{
+    padding: 150px 0px 150px 0px;
+    margin: 0 auto;
+    max-width: 1112px;
+    text-align: center;
+}
+
+/* Destaque */
+.Destaque{
+    list-style: none; /*remover os bullets*/
+    overflow: auto; /* corrigir o comportamento do float */
+}
+
+.Destaque li{
+    float: left;
+    padding: 10px;
+}
+
+.Destaque img{
+    border: #e8e8e8 1px solid;
+    cursor: pointer;
+}
+
+footer{
+    background-color: #8b0000;
+    padding: 70px;
+    text-align: center;
+    color: #fff;
+    font-size: 0.9em;
+}
+
+#top{
+    position: fixed;
+    cursor: pointer;
+    right: 15px;
+    bottom: 15px;
+}
+
+/********** Tratamento responsivo **********/
+
+@media (max-width: 480px){
+    header{
+        height: 88px;
+    }
+    .Logo{
+        height:64px;
+        padding: 12px;
+    }
+
+    .Hamburguer{
+        display: block;
+        float: right;
+        margin: 22px;
+    }
+
+    .Menu{
+        float: left;
+        width: 100%;
+        padding: 0;
+    }
+
+    .Menu ul{
+        background-color: #fff;
+        display: none; /* O JQuery fará o menu aparecer */
+    }
+
+    .Menu ul li{
+        float: none;
+    }
+
+    .Menu ul li a{
+        padding: 15px;
+        display: block;
+    }
+
+    .Destaque li{
+        float: none;
+    }
+
+}

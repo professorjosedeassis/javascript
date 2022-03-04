@@ -1,0 +1,47 @@
+Introdução ao JQuery
+- biblioteca JS (funções prontas para uso)
+
+Para usar a biblioteca é necessário importar do site
+oficial e linkar no documento html
+
+Para usar os recursos da biblioteca usamos o $
+------------------------------------------------
+Exemplo 1 - helloJQuery
+------------------------------------------------
+Podemos usar o JQuery como uma função:
+$()
+
+//Função normal
+function() {
+
+}
+
+//função JQuery
+$(function() {
+
+})
+
+//a função JQuery só é executada após o carregamento da página
+$(document).ready(function(){
+
+})
+
+//template
+$(document).ready(function(){
+  $(function(){
+
+  })
+})
+-------------------------------------
+Exemplo 2 - Topo do site 
+-------------------------------------
+É possível trabalhar as funções JQuery
+como uma estrutura if else, conforme 
+template abaixo:
+$(document).ready(function(){
+  $(function(){
+    //verdadeiro		
+  },function(){
+    //falso
+  })
+})
