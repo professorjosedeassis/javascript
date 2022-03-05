@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/javascript)
 
-# Curso - Primeiros passos com JavaScript
+# Curso - JavaScript para iniciantes (mini projetos)
 Aprenda **JavaScript** de forma prática e divertida desenvolvendo aplicativos, jogos e muito mais. Este curso também ensina Lógica de Programação e é recomendado para iniciantes.
 ### Autor
 Professor José de Assis
