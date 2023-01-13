@@ -1,22 +1,22 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/javascript)
 
-# Curso - JavaScript para iniciantes (mini projetos)
-Aprenda **JavaScript** de forma prática e divertida desenvolvendo aplicativos, jogos e muito mais. Este curso também ensina Lógica de Programação e é recomendado para iniciantes.
+# Tutorial de JavaScript para iniciantes (mini projetos)
+Aprenda **JavaScript** de forma prática e divertida desenvolvendo aplicativos, jogos e muito mais. Este tutorial também ensina Lógica de Programação e é recomendado para iniciantes.
 ### Autor
 Professor José de Assis
-### Apresentação do curso
+### Apresentação
 [![Curso primeiros passos com JavaScript](https://img.youtube.com/vi/h1FiBei6plo/0.jpg)](https://youtu.be/h1FiBei6plo "Asssistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/h1FiBei6plo?style=social)
 ### Playlist
-[Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqyuy7U1YjGgBv0x2Hzuw569)
+[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqyuy7U1YjGgBv0x2Hzuw569)
 ### Certificado
 [Iniciar teste](https://forms.gle/gN8JPzegKFjyXGdz6)
-## Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
-:heavy_check_mark: Compartilhar os cursos e projetos
+:heavy_check_mark: Compartilhar os tutoriais e projetos
 
 :heavy_check_mark: Seguir-me nas redes sociais:
 <p align="left">
