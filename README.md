@@ -5,7 +5,7 @@ Aprenda **JavaScript** de forma prática e divertida desenvolvendo aplicativos, 
 ### Autor
 Professor José de Assis
 ### Apresentação
-[![Curso primeiros passos com JavaScript](https://img.youtube.com/vi/h1FiBei6plo/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqyuy7U1YjGgBv0x2Hzuw569 "Asssistir no YouTube")
+[![Curso primeiros passos com JavaScript](https://img.youtube.com/vi/h1FiBei6plo/0.jpg)](https://youtu.be/h1FiBei6plo?si=iCIXcKIXHUdrPJBh "Asssistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/h1FiBei6plo?style=social)
 ### Iniciar tutorial:
