@@ -5,13 +5,12 @@ Aprenda **JavaScript** de forma prática e divertida desenvolvendo aplicativos, 
 ### Autor
 Professor José de Assis
 ### Apresentação
-[![Curso primeiros passos com JavaScript](https://img.youtube.com/vi/h1FiBei6plo/0.jpg)](https://youtu.be/h1FiBei6plo "Asssistir no YouTube")
+[![Curso primeiros passos com JavaScript](https://img.youtube.com/vi/h1FiBei6plo/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqyuy7U1YjGgBv0x2Hzuw569 "Asssistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/h1FiBei6plo?style=social)
-### Playlist
-[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqyuy7U1YjGgBv0x2Hzuw569)
-### Certificado
-[Iniciar teste](https://forms.gle/gN8JPzegKFjyXGdz6)
+### Iniciar tutorial:
+[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqyuy7U1YjGgBv0x2Hzuw569)
+
 ## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
