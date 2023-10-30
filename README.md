@@ -8,7 +8,7 @@ Professor José de Assis
 [![Curso primeiros passos com JavaScript](https://img.youtube.com/vi/h1FiBei6plo/0.jpg)](https://youtu.be/h1FiBei6plo?si=iCIXcKIXHUdrPJBh "Asssistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/h1FiBei6plo?style=social)
-### Iniciar tutorial:
+### Iniciar curso:
 [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqyuy7U1YjGgBv0x2Hzuw569)
 ## Como apoiar os tutoriais e projetos?
 ### Você pode me pagar um café! ☕
