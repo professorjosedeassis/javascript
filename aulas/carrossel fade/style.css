@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* Efeito fade  */
+
+#slide.FadeOut {
+    opacity: 0.1;
+}
+
+#slide {    
+    transition: opacity 2s;
+    opacity: 1; 
+}
