@@ -1,0 +1,71 @@
+/**
+    Folha de estilo - cartas
+    @author professor José de Assis
+*/
+
+/* Layout */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+    height: 100vh;
+}
+
+body {   
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+    font-size: 1em;
+}
+
+/* Botão */
+button {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 25px;
+    font-size: 1.2em;
+}
+
+/* Carta */
+.Carta {
+    width: 250px;
+    height: 350px;
+    background-color: #ffffff; 
+    margin-bottom: 50px;   
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-radius: 10px; 
+    position: relative; /*ref. carta (alinhamento)*/ 
+}
+
+.Canto {    
+    position: absolute;    
+    font-size: 2em;
+    text-align: center;
+}
+
+#supEsq {
+    top: 20px;
+    left: 15px;  
+}
+
+#infDir {
+    bottom: 25px;
+    right: 15px;    
+    transform: rotate(180deg); 
+}
+
+.Centro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 6em;    
+}
